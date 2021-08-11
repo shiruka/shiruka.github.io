@@ -1,7 +1,14 @@
 site_name: Shiru ka
 site_url: https://shiruka.github.io/
+doc_dir: site
 theme:
   name: readthedocs
   locale: en
 nav:
   - Home: index.md
+plugins:
+  - i18n:
+      default_language: en
+      languages:
+        en: english
+        tr: türkçe
