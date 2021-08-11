@@ -1,6 +1,5 @@
 site_name: Shiru ka
 site_url: https://shiruka.github.io/
-docs_dir: site
 theme:
   name: readthedocs
   locale: en
