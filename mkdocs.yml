@@ -11,5 +11,5 @@ plugins:
   - i18n:
       default_language: en
       languages:
-        en: english
-        tr: türkçe
+        en: English
+        tr: Türkçe
