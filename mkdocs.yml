@@ -6,7 +6,7 @@ theme:
     text: Ubuntu
     code: Ubuntu Mono
   icon:
-    logo: assets/SHIRUKA.png
+    logo: assets/SHIRUKA
   palette:
     primary: blue
 plugins:
