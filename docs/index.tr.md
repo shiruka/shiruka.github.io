@@ -1,1 +1,1 @@
-# Shiru ka Dokümantasyon
+# Shiru ka
