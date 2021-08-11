@@ -3,8 +3,6 @@ site_url: https://shiruka.github.io/
 theme:
   name: readthedocs
   locale: en
-nav:
-  - Home: index.md
 plugins:
   - i18n:
       default_language: en
