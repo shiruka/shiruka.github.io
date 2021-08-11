@@ -1,8 +1,14 @@
 site_name: Shiru ka
 site_url: https://shiruka.github.io/
 theme:
-  name: readthedocs
-  locale: en
+  name: material
+  font:
+    text: Ubuntu
+    code: Ubuntu Mono
+  icon:
+    logo: material/file-document-multiple
+  palette:
+    primary: blue
 plugins:
   - i18n:
       default_language: en
